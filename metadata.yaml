@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33518
     wikipedia: http://fi.wikipedia.org/wiki/Emanuel_T%C3%B6rm%C3%A4l%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35056#Olli-Oivallinen-eli--Hyv--kaikkiin-kelpaa-
 gutenberg_issued: '2011-01-24'
 gutenberg_type: Text
 identifiers:
