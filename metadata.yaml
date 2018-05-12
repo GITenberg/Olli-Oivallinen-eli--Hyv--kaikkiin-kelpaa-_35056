@@ -1,0 +1,28 @@
+_repo: Olli-Oivallinen-eli--Hyv--kaikkiin-kelpaa-_35056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Törmälä, Emanuel
+    alias: Tormala, Emanuel
+    birthdate: 1849
+    deathdate: 1900
+    gutenberg_agent_id: '33518'
+    url: http://www.gutenberg.org/2009/agents/33518
+    wikipedia: http://fi.wikipedia.org/wiki/Emanuel_T%C3%B6rm%C3%A4l%C3%A4
+description: ''
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35056'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Olli Oivallinen eli "Hyvä kaikkiin kelpaa"
+url: http://www.gutenberg.org/ebooks/35056
